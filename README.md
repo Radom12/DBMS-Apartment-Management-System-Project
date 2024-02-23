@@ -14,7 +14,7 @@ This is an Apartment Management System built using PHP, MySQL, HTML, CSS, and Ja
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/apartment-management-system.git`
+1. Clone the repository: `https://github.com/Radom12/DBMS-Apartment-Management-System-Project`
 2. Navigate to the project directory: `cd apartment-management-system`
 3. Import the SQL file into your MySQL database.
 
