@@ -21,12 +21,22 @@ This is an Apartment Management System built using PHP, MySQL, HTML, CSS, and Ja
 ## Usage
 
 1. Start your local server (like XAMPP, WAMP, MAMP).
-2. Open your web browser and go to `localhost/apartment-management-system`.
+2. Open your web browser and go to `localhost/apartment-management-system-Project`.
 3. Use the application.
+4. The Username for Admin login is Abhyudith and Pssword is 12345.
+5. The Passwords for Employee Login, can be set through the databse.
+6. Any Mail sent through the database will need to be first configured via the PHP mailer.
+
+## Issues
+
+This project was complleted in a short time frams, and has quite a few issues, some of them i will be listing.
+1.Database is not Normalized, hence a lot of Redundancy is Present.
+2.The Owner user type was removed and merged with Admin, however some PHP files still exist for Owner type only.
+3.The Dashboard pages(Admin and Employee) do not have any main section.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.Any Edits aor Suggestions are welcome.
 
 ## License
 
