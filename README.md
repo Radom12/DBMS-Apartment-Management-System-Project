@@ -34,6 +34,8 @@ This project was complleted in a short time frams, and has quite a few issues, s
 2.The Owner user type was removed and merged with Admin, however some PHP files still exist for Owner type only.
 3.The Dashboard pages(Admin and Employee) do not have any main section.
 
+I will be updating the code frequently to fix any bugs, and optimize the code, to further reduce redundancy.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.Any Edits aor Suggestions are welcome.
