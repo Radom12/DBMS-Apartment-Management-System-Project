@@ -26,6 +26,7 @@ This is an Apartment Management System built using PHP, MySQL, HTML, CSS, and Ja
 4. The Username for Admin login is Abhyudith and Pssword is 12345.
 5. The Passwords for Employee Login, can be set through the databse.
 6. Any Mail sent through the database will need to be first configured via the PHP mailer.
+7. Install PHP mailer and save it in the same Folder.
 
 ## Issues
 
