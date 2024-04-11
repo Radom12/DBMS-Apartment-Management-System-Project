@@ -30,7 +30,7 @@ This is an Apartment Management System built using PHP, MySQL, HTML, CSS, and Ja
 
 ## Issues
 
-This project was complleted in a short time frams, and has quite a few issues, some of them i will be listing.
+This project was completed in a short time frame, and has quite a few issues like:
 1.Database is not Normalized, hence a lot of Redundancy is Present.
 2.The Owner user type was removed and merged with Admin, however some PHP files still exist for Owner type only.
 3.The Dashboard pages(Admin and Employee) do not have any main section.
